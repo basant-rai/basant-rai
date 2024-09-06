@@ -1,15 +1,17 @@
 <h2 align="center">
    Hi! I’m Basant Rai👋
 </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws" />
-  </a>
-</p>
-<p>
+<div>
+   <h4>Language and Tools:</h4>
+   <p align="center">
+     <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws" />
+     </a>
+   </p>
+</div>
+<!-- <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai" />
-</p>
+</p> -->
 
 <div>
  📫 How to reach me: bassuntrai@gmail.com
