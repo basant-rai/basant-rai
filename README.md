@@ -7,6 +7,9 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws" />
   </a>
 </p>
+<p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai" />
+</p>
 
 <div>
  📫 How to reach me: bassuntrai@gmail.com
