@@ -1,8 +1,9 @@
 <div>
    <h2 align="center">
-      Hi! <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I’m Basant+Rai+👋;Software+developer;Mentor" alt="Typing SVG" />
+      Hi! Basant+Rai+👋
    </h2>
    <div align="center">
+       <img src="https://readme-typing-svg.demolab.com?ffont=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=435&lines=I’m ;Software+developer;Mentor" alt="Typing SVG" />
    </div>
 </div>
 
