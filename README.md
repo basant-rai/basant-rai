@@ -1,7 +1,7 @@
 <div>
-   <p align="center">
+   <h2 align="center">
       Hi! I’m Basant Rai👋
-   </p>
+   </h2>
    <p align="center">Software developer | Mentor</p>
 </div>
 
