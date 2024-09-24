@@ -1,6 +1,9 @@
+<div>
 <h2 align="center">
    Hi! I’m Basant Rai👋
 </h2>
+   <p align="center">Software developer | Mentor</p>
+</div>
 <div>
    <h4>Language and Tools:</h4>
    <p align="center">
