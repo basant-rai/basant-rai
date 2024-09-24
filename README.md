@@ -5,9 +5,13 @@
    <h4>Language and Tools:</h4>
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws" />
+       <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws,postman,figma," />
      </a>
    </p>
+</div>
+
+<div>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p>
 </div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
