@@ -2,9 +2,10 @@
    <h2 align="center">
       Hi! I'm Basant Rai 👋
    </h2>
-   <div align="center">
+   <p align="center">Software Developer | Mentor</p>
+<!--    <div align="center">
        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=400&lines=Software+developer;Mentor" alt="Typing SVG" />
-   </div>
+   </div> -->
 </div>
 
 <div>
