@@ -2,7 +2,7 @@
    <h2 align="center">
       Hi! I’m Basant Rai👋
    </h2>
-   <div>
+   <div align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+developer;Mentor" alt="Typing SVG" />
    </div>
 </div>
