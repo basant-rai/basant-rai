@@ -3,7 +3,7 @@
       Hi! Basant Rai 👋
    </h2>
    <div align="center">
-       <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=435&lines=I’m ;Software+developer;Mentor" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=500&color=FFFFFF&width=435&lines=Software+developer;Mentor" alt="Typing SVG" />
    </div>
 </div>
 
