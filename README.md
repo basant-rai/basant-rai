@@ -11,7 +11,7 @@
 </div>
 
 <div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout="great-gatsby" alt="basant-rai" /></p>
 </div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
