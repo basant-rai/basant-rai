@@ -1,8 +1,9 @@
 <div>
 <h2 align="center">
    Hi! I’m Basant Rai👋
+    <p align="center">Software developer | Mentor</p>
 </h2>
-   <p align="center">Software developer | Mentor</p>
+  
 </div>
 <div>
    <h4>Language and Tools:</h4>
@@ -22,10 +23,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&rank=-C&title=-Stars,-Followers&no-bg=true" alt="basant-rai" />
 <!-- </a> -->
 </p>
-</div>
-
-<div>
-   ![Snake animation Contribution Graph](https://raw.githubusercontent.com/basant-rai/basant-rai/output/github-contribution-grid-snake-dark.svg)
 </div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
