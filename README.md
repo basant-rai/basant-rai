@@ -18,7 +18,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&" alt="basant-rai" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&rank=-C" alt="basant-rai" /></a></p></div>
+   <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&rank=-C&title=-Stars,-Followers&no-bg=true" alt="basant-rai" /></a></p></div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
 </p> -->
