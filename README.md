@@ -7,9 +7,9 @@
 <div>
    <h4>Language and Tools:</h4>
    <p align="center">
-     <a href="https://skillicons.dev">
+<!--      <a href="https://skillicons.dev"> -->
        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,redis,d3,mongodb,mysql,graphql,tailwind,html,css,azure,aws,postman,figma,nginx,gitlab,github" />
-     </a>
+<!--      </a> -->
    </p>
 </div>
 
@@ -17,8 +17,12 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&locale=en" alt="basant-rai" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&" alt="basant-rai" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&rank=-C&title=-Stars,-Followers&no-bg=true" alt="basant-rai" /></a></p></div>
+<p>
+<!--    <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+   <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&rank=-C&title=-Stars,-Followers&no-bg=true" alt="basant-rai" />
+<!-- </a> -->
+</p>
+</div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
 </p> -->
