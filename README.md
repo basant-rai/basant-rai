@@ -7,7 +7,12 @@
        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=400&lines=Software+developer;Mentor" alt="Typing SVG" />
    </div> -->
 </div>
-
+<!-- <div>
+   ![GitHub Views](https://komarev.com/ghpvc/?username=basant-rai&color=FAC151)
+</div> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/basant-rai/count.svg?"  />
+</div>
 <div>
    <h4>Language and Tools:</h4>
    <p align="center">
