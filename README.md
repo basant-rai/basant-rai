@@ -7,15 +7,18 @@
        <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=400&lines=Software+developer;Mentor" alt="Typing SVG" />
    </div> -->
 </div>
-<a href="https://wakatime.com/@Avalynn" target="_blank">
-	<img width="50%" align="right" alt="All time stats Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2\&layout=compact">
-</a>
-<!-- <div>
-   ![GitHub Views](https://komarev.com/ghpvc/?username=basant-rai&color=FAC151)
-</div> -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/basant-rai/count.svg?"  />
 </div>
+<div>
+	<a href="https://wakatime.com/@Avalynn" target="_blank">
+	<img width="100%" align="cener" alt="All time stats Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2\&layout=compact">
+	</a>
+</div>
+<!-- <div>
+   ![GitHub Views](https://komarev.com/ghpvc/?username=basant-rai&color=FAC151)
+</div> -->
+
 <div>
    <h4>Language and Tools:</h4>
    <p align="center">
