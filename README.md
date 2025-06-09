@@ -11,8 +11,8 @@
   <img src="https://profile-counter.glitch.me/basant-rai/count.svg?"  />
 </div>
 <div>
-	<a href="https://wakatime.com/@Avalynn" target="_blank">
-	<img width="100%" align="cener" alt="All time stats Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2\&layout=compact">
+	<a href="https://wakatime.com/@basantrai" target="_blank">
+	<img width="100%" align="cener" alt="All time stats Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=basantrai&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2\&layout=compact">
 	</a>
 </div>
 <!-- <div>
