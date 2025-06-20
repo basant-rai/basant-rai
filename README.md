@@ -11,11 +11,6 @@
   <img src="https://profile-counter.glitch.me/basant-rai/count.svg?"  />
 </div>
 <!-- WakaTime Stats -->
-<p align="center">
-  <a href="https://wakatime.com/@basantrai" target="_blank">
-    <img width="100%" alt="All time WakaTime Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=basantrai&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2&layout=compact" />
-  </a>
-</p>
 <!-- <div>
    ![GitHub Views](https://komarev.com/ghpvc/?username=basant-rai&color=FAC151)
 </div> -->
@@ -27,7 +22,15 @@
 
 ### 📊 GitHub Stats
 <div>
-  <div><img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/></div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="200" />
+  <!-- WakaTime Stats -->
+  <a href="https://wakatime.com/@basantrai" target="_blank">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&layout=compact&theme=github_dark&border_radius=8" />
+  </a>
+</div>
+
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" /></p>
   <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" /></p>
