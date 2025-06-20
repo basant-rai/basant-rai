@@ -22,17 +22,16 @@
 
 ### 📊 GitHub Stats
 <div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="200" />
-  <!-- WakaTime Stats -->
-  <a href="https://wakatime.com/@basantrai" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&layout=compact&theme=github_dark&border_radius=8" />
-  </a>
-</div>
-
+  <div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="800" />  
+  </div>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" /></p>
+ <div>
+   <a href="https://wakatime.com/@basantrai" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&layout=compact&theme=github_dark&border_radius=8" height="200" />
+   </a>
+ </div>
   <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" /></p>
 </div>
 <!-- <p>
