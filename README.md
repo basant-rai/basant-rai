@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 <div>
   <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="800" />  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="600" />  
   </div>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" /></p>
