@@ -26,14 +26,14 @@
       <a href="https://wakatime.com/@basantrai" target="_blank">
          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&layout=compact&theme=github_dark&border_radius=8" width="900" />
       </a>
-    </div>
+   </div>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" width="900" /></p>
   <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="600" />  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="600" width="900"/>  
   </div>
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" /></p>
 
-  <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" /></p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" width="900"/></p>
 </div>
 <!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
