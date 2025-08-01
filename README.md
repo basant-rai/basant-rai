@@ -28,9 +28,9 @@
       </a>
    </div>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" width="900" /></p>
-  <div>
+<!--   <div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="600" width="900"/>  
-  </div>
+  </div> -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
 
   <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" width="900"/></p>
