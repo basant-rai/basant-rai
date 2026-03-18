@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Basant%20Rai&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
-
-  <h3>🚀 Senior Full-Stack Architect | Technical Mentor | Cloud Specialist</h3>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=200&section=header&text=Basant%20Rai&fontSize=70&fontColor=FAC151&animation=twinkling" />  
+  <h3>🚀 Full-Stack Architect | Technical Mentor | Cloud Specialist</h3>
 
   <p align="center">
     <a href="mailto:bassuntrai@gmail.com"><img src="https://img.shields.io/badge/Email-bassuntrai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -48,9 +47,15 @@ A results-driven **Software Developer and Mentor** specializing in building high
 ---
 
 ### 📊 Engineering Impact
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages" /> -->
+</div>
+<br/>
+<div>
+  <a href="https://wakatime.com/@basantrai">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&theme=tokyonight&bg_color=1a1a1a&title_color=FAC151&border_radius=10&layout=compact" width="100%" />
+  </a>
 </div>
 
 <br/>
