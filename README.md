@@ -1,60 +1,80 @@
-<div>
-   <h2 align="center">
-      Hi! I'm Basant Rai 👋
-   </h2>
-   <p align="center">Software Developer | Mentor</p>
-<!--    <div align="center">
-       <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&color=FFFFFF&width=400&lines=Software+developer;Mentor" alt="Typing SVG" />
-   </div> -->
-</div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/basant-rai/count.svg?"  />
-</div>
-<!-- WakaTime Stats -->
-<!-- <div>
-   ![GitHub Views](https://komarev.com/ghpvc/?username=basant-rai&color=FAC151)
-</div> -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Basant%20Rai&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 
-### 🛠️ Languages & Tools:
-<p align="=">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,linux,debian,redis,d3,mongodb,mysql,postgres,prisma,graphql,tailwind,wordpress,html,css,azure,aws,postman,figma,nginx,gitlab,github,yarn,npm,pnpm,vite,firebase,docker" alt="Tech stack icons" />
+  <h3>🚀 Senior Full-Stack Architect | Technical Mentor | Cloud Specialist</h3>
+
+  <p align="center">
+    <a href="mailto:bassuntrai@gmail.com"><img src="https://img.shields.io/badge/Email-bassuntrai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/basant-rai"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  </p>
+</div>
+
+---
+
+### 📖 Executive Summary
+A results-driven **Software Developer and Mentor** specializing in building high-performance web applications. I bridge the gap between complex backend architecture and intuitive frontend experiences. My focus is on **Type-Safety, Scalability, and Clean Code.**
+
+* 🏛️ **Architecture:** Microservices, Serverless, and Distributed Systems.
+* 🎓 **Leadership:** Technical Mentorship and Code Quality Advocacy.
+* ☁️ **Cloud:** Expert-level deployment and orchestration across AWS & Azure.
+
+---
+
+### ⚡ Technical Arsenal
+
+#### 🏗️ Frameworks & Languages
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,graphql,prisma,html,css" alt="Frontend and Backend" />
+
+#### 🗄️ Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases" />
+
+#### ☁️ DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,debian,gitlab,github,postman" alt="DevOps" />
+
+#### 🛠️ Tooling & Productivity
+<img src="https://skillicons.dev/icons?i=tailwind,wordpress,figma,vite,npm,yarn,pnpm" alt="Tools" />
+
+---
+
+### 🏆 Featured Architectural Projects
+> **High-Concurrency Task Engine**
+> *Built a custom orchestration layer using Node.js and Redis to handle 5,000+ real-time events per second.*
+> `TypeScript` • `Redis` • `Docker`
+
+> **Enterprise Data Visualization**
+> *Engineered a complex analytics dashboard utilizing D3.js and Prisma for real-time PostgreSQL data streaming.*
+> `Next.js` • `D3.js` • `PostgreSQL`
+
+---
+
+### 📊 Engineering Impact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=radical&hide_border=true" width="100%" alt="Streak" />
+</div>
+
+---
+
+### 🎖️ Recognitions & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basant-rai&theme=radical&no-bg=true&column=4&margin-w=15" alt="Trophies" />
 </p>
 
-### 📊 GitHub Stats
-<div>
-   <div>
-      <a href="https://wakatime.com/@basantrai" target="_blank">
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=basantrai&layout=compact&theme=github_dark&border_radius=8" width="900" />
-      </a>
-   </div>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basant-rai&theme=yellowdark&hide_border=true" alt="basant-rai" width="900" /></p>
-<!--   <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" height="600" width="900"/>  
-  </div> -->
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=basant-rai&show_icons=true&locale=en&layout=compact" alt="basant-rai" /></p> -->
+---
 
-  <p><img src="https://github-profile-trophy.vercel.app/?username=basant-rai&no-bg=true" alt="basant-rai" width="900"/></p>
+### 🤝 Let's Connect
+I am always open to discussing **System Design**, **Mentorship**, or **High-level Consulting**.
+
+* 🔭 Check my repos for architectural patterns and boilerplate templates.
+* 💬 Ask me about: React optimization, Database indexing, or Linux servers.
+* ⚡ Fun Fact: I prefer a terminal over a GUI any day of the week.
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/basant-rai/count.svg" alt="Visitor Count" />
 </div>
-<!-- <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical" />
-</p> -->
-<!-- ![Basant's GitHub stats]()
-<!-- <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai" />
-</p> -->
-
-<!--  📫 How to reach me: bassuntrai@gmail.com -->
-<!--
-**basant-rai/basant-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
