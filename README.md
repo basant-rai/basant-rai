@@ -25,13 +25,13 @@ A results-driven **Software Developer and Mentor** specializing in building high
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,nestjs,react,nextjs,express,graphql,prisma,html,css,fastapi,express" alt="Frontend and Backend" />
 
 #### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,rabbitmq" alt="Databases" />
 
 #### ☁️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,debian,gitlab,github,postman,rabbitmq,redis,docker" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,debian,gitlab,postman,docker" alt="DevOps" />
 
 #### 🛠️ Tooling & Productivity
-<img src="https://skillicons.dev/icons?i=tailwind,wordpress,figma,vite,npm,yarn,pnpm,vscode,github,githubactions" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=tailwind,wordpress,figma,vite,npm,yarn,pnpm,vscode,github,githubactions,figma,redux,sentry" alt="Tools" />
 
 ---
 
