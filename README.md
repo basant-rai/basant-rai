@@ -1,10 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=200&section=header&text=Basant%20Rai&fontSize=70&fontColor=FAC151&animation=twinkling" />  
-  <h3>🚀 Full-Stack Architect | Technical Mentor | Cloud Specialist</h3>
+  <h3>🚀 Full-Stack Architect | Technical Mentor</h3>
 
   <p align="center">
     <a href="mailto:bassuntrai@gmail.com"><img src="https://img.shields.io/badge/Email-bassuntrai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/basant-rai"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/basant-rai-4b0502194/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.basantrai.com.np/">
+      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
   </p>
 </div>
 
@@ -48,7 +51,7 @@ A results-driven **Software Developer and Mentor** specializing in building high
 
 ### 📊 Engineering Impact
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=basant-rai&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Stats" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-rai&layout=compact&theme=radical&hide_border=true" width="48%" alt="Languages" /> -->
 </div>
 <br/>
